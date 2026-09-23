@@ -21,7 +21,6 @@
 - Full-Stack Developer yang juga menekuni bidang **Data Science**
 - Berpengalaman membangun aplikasi **Android** (Kotlin/Java), backend **Python** (Flask/FastAPI), dan web **Laravel**
 - Menekuni **Computer Vision** (OpenCV, DeepFace, ML Kit) dan penerapan **Machine Learning**
-- Sedang terus belajar dan mendokumentasikan perjalanan belajar di GitHub
 - Terbuka untuk kolaborasi project maupun freelance
 
 <div align="center">
