@@ -19,7 +19,7 @@
 ## 🧑💻 About Me
 
 - 💻 Full-Stack Developer yang juga menekuni bidang **Data Science**
-- 📱 Berpengalaman membangun aplikasi **Android** (Kotlin/Java) dan backend **Flask**
+- 📱 Berpengalaman membangun aplikasi **Android** (Kotlin/Java), backend **Python** (Flask/FastAPI), dan web **Laravel**
 - 👁️ Menekuni **Computer Vision** (OpenCV, DeepFace, ML Kit) dan penerapan **Machine Learning**
 - 📚 Sedang terus belajar dan mendokumentasikan perjalanan belajar di GitHub
 - 🤝 Terbuka untuk kolaborasi project maupun freelance
@@ -44,6 +44,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
@@ -63,6 +65,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports-1B6AC6?style=for-the-badge)
 
@@ -81,6 +85,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**SafarHaramin**](https://arminarekaofficial.com) | Website agensi haji & umroh: katalog paket, pendaftaran jamaah, tabungan, hingga panel admin operasional keberangkatan (PWA + web push) | `PHP` · `Laravel` · `Tailwind` · `MySQL` |
 | [**absensi_kantor**](https://github.com/yarhansulaiman-star/absensi_kantor) | Aplikasi absensi karyawan Android: GPS, kamera, laporan kehadiran, dan manajemen gaji berbasis role (Karyawan, HRD, Admin) | `Java` · `Android` |
 | [**backend-face-Recognizer**](https://github.com/yarhansulaiman-star/backend-face-Recognizer) | Backend API untuk pengenalan wajah (face recognition) | `Python` · `Flask` · `OpenCV` |
 | [**Project_KKP**](https://github.com/yarhansulaiman-star/Project_KKP) | Project Kuliah Kerja: source code, dokumentasi, dan implementasi sistem | `Java` |
