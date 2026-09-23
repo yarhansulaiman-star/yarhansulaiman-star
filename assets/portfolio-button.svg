@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="88" viewBox="0 0 340 88" role="img" aria-label="Portfolio 3D">
+  <title>Portfolio 3D</title>
+  <defs>
+    <linearGradient id="aysGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c6dfa">
+        <animate attributeName="stop-color" values="#7c6dfa;#a78bfa;#34d399;#7c6dfa" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#34d399;#7c6dfa;#a78bfa" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#34d399">
+        <animate attributeName="stop-color" values="#34d399;#7c6dfa;#a78bfa;#34d399" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="aysText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="aysGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- frame -->
+  <rect x="2" y="2" width="336" height="84" rx="20" fill="#0a0a0f" stroke="url(#aysGrad)" stroke-width="2"/>
+  <rect x="2" y="2" width="336" height="84" rx="20" fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.2">
+    <animate attributeName="opacity" values="0.12;0.55;0.12" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- rotating wireframe globe -->
+  <g transform="translate(50,44)" filter="url(#aysGlow)">
+    <circle r="19" fill="none" stroke="url(#aysGrad)" stroke-width="1.8" opacity="0.95"/>
+    <ellipse rx="19" ry="7" fill="none" stroke="url(#aysGrad)" stroke-width="1.1" opacity="0.7">
+      <animate attributeName="ry" values="7;2.5;7" dur="4.6s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+      <ellipse rx="7" ry="19" fill="none" stroke="#a78bfa" stroke-width="1.1" opacity="0.8"/>
+    </g>
+    <ellipse rx="19" ry="19" fill="none" stroke="#34d399" stroke-width="0.9" opacity="0.45">
+      <animate attributeName="rx" values="19;1;19" dur="4.6s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- label -->
+  <text x="88" y="53" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="3.4" fill="url(#aysText)">PORTFOLIO</text>
+
+  <!-- shine sweep -->
+  <rect x="2" y="2" width="336" height="84" rx="20" fill="none" stroke="#c4b5fd" stroke-width="1.4" opacity="0.35" stroke-dasharray="40 420">
+    <animate attributeName="stroke-dashoffset" from="460" to="0" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
