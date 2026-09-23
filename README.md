@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yarhansulaiman-star&hide_border=true&background=0a0a0f&stroke=7c6dfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+<img src="assets/streak.svg" alt="GitHub Streak" width="100%" />
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yarhansulaiman-star/yarhansulaiman-star/output-3d-contrib/profile-violet.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/yarhansulaiman-star/yarhansulaiman-star/output-3d-contrib/profile-violet.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
 
