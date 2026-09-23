@@ -26,7 +26,7 @@
 
 ---
 
-## ⭐ Proyek Unggulan
+## Proyek Unggulan
 
 > 🕋 **[SafarHaramin](https://arminarekaofficial.com)** — website agensi haji & umroh (Laravel + Tailwind, PWA + web push). Mulai dari katalog paket, pendaftaran jamaah, tabungan, sampai panel admin operasional keberangkatan.
 >
@@ -48,7 +48,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
