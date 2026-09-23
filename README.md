@@ -26,11 +26,19 @@
 
 ---
 
+## ⭐ Proyek Unggulan
+
+> 🕋 **[SafarHaramin](https://arminarekaofficial.com)** — website agensi haji & umroh (Laravel + Tailwind, PWA + web push). Mulai dari katalog paket, pendaftaran jamaah, tabungan, sampai panel admin operasional keberangkatan.
+>
+> `PHP` · `Laravel` · `Tailwind CSS` · `MySQL` · `Vite` · `PWA`
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [**SafarHaramin**](https://arminarekaofficial.com) | Website agensi haji & umroh: katalog paket, pendaftaran jamaah, tabungan, hingga panel admin operasional keberangkatan (PWA + web push) | `PHP` · `Laravel` · `Tailwind` · `MySQL` |
+| ⭐ [**SafarHaramin**](https://arminarekaofficial.com) | Website agensi haji & umroh: katalog paket, pendaftaran jamaah, tabungan, hingga panel admin operasional keberangkatan (PWA + web push) | `PHP` · `Laravel` · `Tailwind` · `MySQL` |
 | [**absensi_kantor**](https://github.com/yarhansulaiman-star/absensi_kantor) | Aplikasi absensi karyawan Android: GPS, kamera, laporan kehadiran, dan manajemen gaji berbasis role (Karyawan, HRD, Admin) | `Java` · `Android` |
 | [**backend-face-Recognizer**](https://github.com/yarhansulaiman-star/backend-face-Recognizer) | Backend API untuk pengenalan wajah (face recognition) | `Python` · `Flask` · `OpenCV` |
 | [**Project_KKP**](https://github.com/yarhansulaiman-star/Project_KKP) | Project Kuliah Kerja: source code, dokumentasi, dan implementasi sistem | `Java` |
