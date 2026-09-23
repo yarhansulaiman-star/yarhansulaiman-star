@@ -16,13 +16,13 @@
 
 ---
 
-## 🧑💻 About Me
+## About Me
 
-- 💻 Full-Stack Developer yang juga menekuni bidang **Data Science**
-- 📱 Berpengalaman membangun aplikasi **Android** (Kotlin/Java), backend **Python** (Flask/FastAPI), dan web **Laravel**
-- 👁️ Menekuni **Computer Vision** (OpenCV, DeepFace, ML Kit) dan penerapan **Machine Learning**
-- 📚 Sedang terus belajar dan mendokumentasikan perjalanan belajar di GitHub
-- 🤝 Terbuka untuk kolaborasi project maupun freelance
+- Full-Stack Developer yang juga menekuni bidang **Data Science**
+- Berpengalaman membangun aplikasi **Android** (Kotlin/Java), backend **Python** (Flask/FastAPI), dan web **Laravel**
+- Menekuni **Computer Vision** (OpenCV, DeepFace, ML Kit) dan penerapan **Machine Learning**
+- Sedang terus belajar dan mendokumentasikan perjalanan belajar di GitHub
+- Terbuka untuk kolaborasi project maupun freelance
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## 🌌 3D Contribution Graph
+## 3D Contribution Graph
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-### 📫 Let's connect!
+### Let's connect!
 
 <a href="https://yarhansulaiman-star.github.io/portofolio/">
   <img src="assets/portfolio-button.svg" alt="Portfolio 3D" height="72" />
@@ -83,6 +83,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yarhanns/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bukanarhanpratama)
 
-⭐️ From [yarhansulaiman-star](https://github.com/yarhansulaiman-star)
+From [yarhansulaiman-star](https://github.com/yarhansulaiman-star)
 
 </div>
