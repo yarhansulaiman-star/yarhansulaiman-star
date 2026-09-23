@@ -14,6 +14,14 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://yarhansulaiman-star.github.io/portofolio/">
+  <img src="assets/portfolio-3d.svg" alt="3D Portfolio — Ahmed Yarhan Sulaiman" width="100%" />
+</a>
+
+</div>
+
 ---
 
 ## About Me
