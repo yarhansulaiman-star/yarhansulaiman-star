@@ -14,14 +14,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="https://yarhansulaiman-star.github.io/portofolio/">
-  <img src="assets/portfolio-3d.webp" alt="3D Portfolio — Ahmed Yarhan Sulaiman" width="100%" />
-</a>
-
-</div>
-
 ---
 
 ## About Me
@@ -31,6 +23,14 @@
 - Menekuni **Computer Vision** (OpenCV, DeepFace, ML Kit) dan penerapan **Machine Learning**
 - Sedang terus belajar dan mendokumentasikan perjalanan belajar di GitHub
 - Terbuka untuk kolaborasi project maupun freelance
+
+<div align="center">
+
+<a href="https://yarhansulaiman-star.github.io/portofolio/">
+  <img src="assets/portfolio-3d.svg" alt="3D Portfolio — Ahmed Yarhan Sulaiman" width="100%" />
+</a>
+
+</div>
 
 ---
 
