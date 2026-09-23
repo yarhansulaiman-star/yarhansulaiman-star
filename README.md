@@ -40,12 +40,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yarhansulaiman-star&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=e2e8f0&icon_color=7c6dfa&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yarhansulaiman-star&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=e2e8f0&count_private=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=yarhansulaiman-star&hide_border=true&background=0a0a0f&stroke=7c6dfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
 
