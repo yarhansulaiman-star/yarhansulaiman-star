@@ -47,7 +47,7 @@
 |---|---|---|
 | ⭐ [**SafarHaramin**](https://arminarekaofficial.com) | Website agensi haji & umroh: katalog paket, pendaftaran jamaah, tabungan, hingga panel admin operasional keberangkatan (PWA + web push) | `PHP` · `Laravel` · `Tailwind` · `MySQL` |
 | [**hermes-voice-orb**](https://github.com/yarhansulaiman-star/hermes-voice-orb) | Kit suara ala JARVIS untuk Hermes Agent di Windows: orb melayang yang mengikuti suara, prioritas mic Bluetooth, wake word kontinu, dan on/off lewat suara (open source) | `Python` · `Electron` · `Voice` |
-| [**backend-face-Recognizer**](https://github.com/yarhansulaiman-star/backend-face-Recognizer) | Backend API untuk pengenalan wajah (face recognition) | `Python` · `Flask` · `OpenCV` |
+| [**Absensi Kantor face recognition**](https://github.com/yarhansulaiman-star/absensi_kantor) | aplikasi android untuk pengenalan wajah (face recognition) | `Python` · `Flask` · `OpenCV` |
 | [**Project_KKP**](https://github.com/yarhansulaiman-star/Project_KKP) | Project Kuliah Kerja: source code, dokumentasi, dan implementasi sistem | `Java` |
 | [**prediksi_datascientist**](https://github.com/yarhansulaiman-star/prediksi_datascientist) | Program prediksi & analisis data menggunakan Jupyter Notebook | `Jupyter` · `Python` |
 
